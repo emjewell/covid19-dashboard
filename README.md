@@ -19,9 +19,3 @@ This Tableau dashboard visualizes COVID-19 cases and deaths across U.S. states f
 ##  Live Dashboard
 View the interactive dashboard here:  
 🔗 [COVID-19 Tableau Dashboard](https://public.tableau.com/shared/B459P2RS3?:display_count=n&:origin=viz_share_link)
-
-## 📷 Screenshots (optional)
-_You can add dashboard images here by uploading `.png` files and embedding them like this:_
-
-```markdown
-![Line Chart](Linechart.png)
