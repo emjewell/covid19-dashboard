@@ -24,4 +24,4 @@ View the interactive dashboard here:
 _You can add dashboard images here by uploading `.png` files and embedding them like this:_
 
 ```markdown
-![Line Chart](Line%20Chart.png)
+![Line Chart](Linechart.png)
