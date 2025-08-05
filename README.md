@@ -8,7 +8,7 @@ This Tableau dashboard visualizes COVID-19 cases and deaths across U.S. states f
 
 ##  Features
 -  **Line Chart:** Case trends over time for selected states
-- 🗺 **Map:** Total confirmed cases by state, color-coded by severity
+-  **Map:** Total confirmed cases by state, color-coded by severity
 -  **Bar Chart:** States ranked by total COVID-19 deaths
 -  Filtered by most recent date available
 
@@ -24,4 +24,4 @@ View the interactive dashboard here:
 _You can add dashboard images here by uploading `.png` files and embedding them like this:_
 
 ```markdown
-![Dashboard Screenshot](Line Chart.png)
+![Line Chart](Line%20chart.png)
